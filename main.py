@@ -1,9 +1,48 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 21 13:42:50 2023
+                            #Øving 4
+#Lim inn deloppgavene her etterhvert som du blir ferdig med dem
+                            #Uavhengige oppgaver
 
-@author: John
-"""
+#d.
 
-print("Hello, world")
-liste = []
+
+
+#e.
+
+
+
+#f.
+
+
+
+#g.
+
+
+
+#h.
+
+
+
+                            #Avhengige deloppgaver
+###########################################################################
+
+
+
+#i.
+
+
+
+#j
+
+
+
+#k.
+
+
+
+#l.
+
+
+
+#m.
+
+

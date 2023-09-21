@@ -6,3 +6,4 @@ Created on Thu Sep 21 13:42:50 2023
 """
 
 print("Hello, world")
+liste = []
